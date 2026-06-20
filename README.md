@@ -139,6 +139,7 @@ improve their onboarding experience.
 ## ✨ A Few Things That Set Me Apart
 
 🏥 **Real healthcare domain experience**
+
 Not just projects. I've worked inside a state health agency with
 production healthcare data. I know NEMSIS, SPARCS, and ePCR schemas,
 understand EMS data flows, and have built systems where the output
@@ -146,10 +147,12 @@ directly informed public health decisions. If you're hiring for health
 tech or digital health, that context is hard to find in a generalist.
 
 🏆 **2024 Orange Hoops Data Science Challenge — 1st Place**
+
 Built an injury prediction model with **98% recall** that beat out
 competing teams across the country.
 
 📄 **Published at ACL 2022**
+
 Peer-reviewed NLP research accepted at the Association for Computational
 Linguistics one of the top venues in the field.
 
