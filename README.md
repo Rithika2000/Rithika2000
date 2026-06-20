@@ -1,169 +1,25 @@
+# 💫 About Me:
+<br><br># Rithika Gurram<br><br>**ML Engineer · Data Analyst · Agent Builder · Dashboard Maker**<br><br>I work in the gap between raw data and real insight<br>turning messy, fragmented data into systems that actually do something.<br><br><br><br>---<br><br>## 👩‍💻 About Me<br><br>I come from a background in machine learning, data analytics, and building<br>AI agents and I've spent my career finding the place where those three<br>things overlap.<br><br>Most data never gets used. It sits in pipelines, in dashboards nobody opens,<br>in reports that take too long to generate. The gap between raw data and real<br>insight is where I live and I build things to close it.<br><br>**What I've done:**<br><br>Working as a Research Scientist at the **New York State Department of Health**,<br>where I built systems that monitor opioid overdose patterns across EMS<br>records statewide turning fragmented data into signals that public<br>health teams could act on the same day.<br><br>Built and deployed ML pipelines, LLM-powered agents, and end-to-end ETL<br>workflows from data ingestion to dashboards to model inference.<br><br>Graduated with an **MS in Applied Data Science from Syracuse University**<br>and sharpened my analytics foundation working as a **Data Scientist at<br>Cognizant Technology Solutions**, where I worked on large-scale data<br>migrations and reporting pipelines.<br><br>Currently building **PA-Assist**  an agentic RAG system that cuts down<br>the hours clinicians spend manually reviewing prior authorization forms,<br>using LangChain, LLaMA, and ChromaDB.<br><br><br>## 🚀 Featured Projects<br><br>### 🏥 [PA-Assist — Agentic RAG for Healthcare Prior Authorization](https://github.com/Rithika2000/compass-assistant)<br>> `LangChain` `LLaMA` `ChromaDB` `FastAPI` `Python`<br><br>Clinicians were spending hours manually reviewing prior auth forms and<br>chasing policy documents. PA-Assist is an agentic RAG system that<br>surfaces the right policy context instantly — so that time goes back<br>to patients.<br><br>---<br><br>### 📊 [ECAnalytics — E-Commerce Data Analytics Pipeline](https://github.com/Rithika2000/ECAnalytics)<br>> `Python` `SQL` `Pandas` `Visualization`<br><br>End-to-end analytics pipeline for e-commerce data — from raw transaction<br>records to insight dashboards that track sales trends, customer behavior,<br>and product performance.<br><br>---<br><br>### 🖼️ [Image Caption Generator](https://github.com/Rithika2000/Image-Caption-Generator)<br>> `Deep Learning` `CNN` `LSTM` `Python` `Jupyter`<br><br>A deep learning model that generates natural language captions for images<br>— combining convolutional visual features with sequential text generation.<br><br>---<br><br>### 🏅 [Tokyo Olympics Analysis](https://github.com/Rithika2000/Tokyo-olympics-analysis)<br>> `Python` `Pandas` `Data Visualization` `Jupyter`<br><br>Exploratory analysis of the Tokyo 2020 Olympics dataset — uncovering<br>patterns in medal distributions, country performance, and athlete<br>demographics through rich visual storytelling.<br><br>---<br><br>### 🎓 [Student Onboarding Analysis — Tableau Dashboard](https://github.com/Rithika2000/StudentOnboardingAnalysis)<br>> `Tableau` `Data Analysis` `Dashboard Design`<br><br>A Tableau dashboard analyzing student onboarding patterns — tracking<br>drop-off points, engagement trends, and key metrics to help institutions<br>improve their onboarding experience.<br><br>---<br><br>## ✨ A Few Things That Set Me Apart<br><br>🏥 Real healthcare domain experience<br><br>Not just projects. I've worked inside a state health agency with production healthcare data. I know NEMSIS, SPARCS, and ePCR schemas, understand EMS data flows, and have built systems where the output directly informed public health decisions. If you're hiring for health tech or digital health, that context is hard to find in a generalist.<br><br><br><br>🏆 **2024 Orange Hoops Data Science Challenge — 1st Place**<br>Built an injury prediction model with **98% recall** that beat out<br>competing teams across the country.<br><br>📄 **Published at ACL 2022**<br>Peer-reviewed NLP research accepted at the Association for Computational<br>Linguistics — one of the top venues in the field.<br><br><br><br>---<br><br><br><br><br>*"The gap between raw data and real insight is where I live."*<br><br><br>
 
 
-# Rithika Gurram
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gurram-rithika/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@rithikagurram.2000) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/rithikagurram09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithika.gurram01@gmail.com) 
 
-**ML Engineer · Data Analyst · Agent Builder · Dashboard Maker**
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Rithika2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Rithika2000&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rithika2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I work in the gap between raw data and real insight
-turning messy, fragmented data into systems that actually do something.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gurram--rithika-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurram-rithika/)
-[![Twitter](https://img.shields.io/badge/Twitter-@rithikagurram09-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/rithikagurram09)
-[![Medium](https://img.shields.io/badge/Medium-Read%20my%20articles-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@rithikagurram.2000)
-[![GitHub](https://img.shields.io/badge/GitHub-Rithika2000-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rithika2000)
-
-
-
-
----
-
-## 👩‍💻 About Me
-
-I come from a background in machine learning, data analytics, and building
-AI agents and I've spent my career finding the place where those three
-things overlap.
-
-Most data never gets used. It sits in pipelines, in dashboards nobody opens,
-in reports that take too long to generate. The gap between raw data and real
-insight is where I live and I build things to close it.
-
-**What I've done:**
-
-Working as a Research Scientist at the **New York State Department of Health**,
-where I built systems that monitor opioid overdose patterns across EMS
-records statewide turning fragmented data into signals that public
-health teams could act on the same day.
-
-Built and deployed ML pipelines, LLM-powered agents, and end-to-end ETL
-workflows from data ingestion to dashboards to model inference.
-
-Graduated with an **MS in Applied Data Science from Syracuse University**
-and sharpened my analytics foundation working as a **Data Scientist at
-Cognizant Technology Solutions**, where I worked on large-scale data
-migrations and reporting pipelines.
-
-Currently building **PA-Assist**  an agentic RAG system that cuts down
-the hours clinicians spend manually reviewing prior authorization forms,
-using LangChain, LLaMA, and ChromaDB.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rithika2000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Rithika2000&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills & Technologies
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Rithika2000) 
 
-### 🧠 AI / LLM / Agents
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=flat)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-orange?style=flat)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4B8BBE?style=flat)
-![Pinecone](https://img.shields.io/badge/Pinecone-00B388?style=flat)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-Fine--tuning-blueviolet?style=flat)
-
-### 🤖 Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC7B39?style=flat)
-![NLP](https://img.shields.io/badge/NLP-BERT%20%7C%20spaCy-blue?style=flat)
-
-### 🔄 Data Engineering
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-### 📊 Analytics & Visualization
-![SQL](https://img.shields.io/badge/SQL-Oracle%20%7C%20Postgres-336791?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SAS](https://img.shields.io/badge/SAS-00A3E0?style=flat)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 [PA-Assist — Agentic RAG for Healthcare Prior Authorization](https://github.com/Rithika2000/compass-assistant)
-> `LangChain` `LLaMA` `ChromaDB` `FastAPI` `Python`
-
-Clinicians were spending hours manually reviewing prior auth forms and
-chasing policy documents. PA-Assist is an agentic RAG system that
-surfaces the right policy context instantly, so that time goes back
-to patients.
-
----
-
-### 📊 [ECAnalytics — E-Commerce Data Analytics Pipeline](https://github.com/Rithika2000/ECAnalytics)
-> `Python` `SQL` `Pandas` `Visualization`
-
-End-to-end analytics pipeline for e-commerce data from raw transaction
-records to insight dashboards that track sales trends, customer behavior,
-and product performance.
-
----
-
-### 🖼️ [Image Caption Generator](https://github.com/Rithika2000/Image-Caption-Generator)
-> `Deep Learning` `CNN` `LSTM` `Python` `Jupyter`
-
-A deep learning model that generates natural language captions for images
-— combining convolutional visual features with sequential text generation.
-
----
-
-### 🏅 [Tokyo Olympics Analysis](https://github.com/Rithika2000/Tokyo-olympics-analysis)
-> `Python` `Pandas` `Data Visualization` `Jupyter`
-
-Exploratory analysis of the Tokyo 2020 Olympics dataset uncovering
-patterns in medal distributions, country performance, and athlete
-demographics through rich visual storytelling.
-
----
-
-### 🎓 [Student Onboarding Analysis — Tableau Dashboard](https://github.com/Rithika2000/StudentOnboardingAnalysis)
-> `Tableau` `Data Analysis` `Dashboard Design`
-
-A Tableau dashboard analyzing student onboarding patterns tracking
-drop-off points, engagement trends, and key metrics to help institutions
-improve their onboarding experience.
-
----
-
-## ✨ A Few Things That Set Me Apart
-
-🏥 **Real healthcare domain experience**
-
-Not just projects. I've worked inside a state health agency with
-production healthcare data. I know NEMSIS, SPARCS, and ePCR schemas,
-understand EMS data flows, and have built systems where the output
-directly informed public health decisions. If you're hiring for health
-tech or digital health, that context is hard to find in a generalist.
-
-🏆 **2024 Orange Hoops Data Science Challenge — 1st Place**
-
-Built an injury prediction model with **98% recall** that beat out
-competing teams across the country.
-
-📄 **Published at ACL 2022**
-
-Peer-reviewed NLP research accepted at the Association for Computational
-Linguistics one of the top venues in the field.
-
-
-
-
----
-
-
-
-*"The gap between raw data and real insight is where I live."*
-
-📬 [LinkedIn](https://www.linkedin.com/in/gurram-rithika/) · [Twitter](https://x.com/rithikagurram09) · [Medium](https://medium.com/@rithikagurram.2000) · [GitHub](https://github.com/Rithika2000)
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
