@@ -4,7 +4,7 @@
 
 **ML Engineer · Data Analyst · Agent Builder · Dashboard Maker**
 
-I work in the gap between raw data and real insight —
+I work in the gap between raw data and real insight
 turning messy, fragmented data into systems that actually do something.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gurram--rithika-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gurram-rithika/)
@@ -96,7 +96,7 @@ using LangChain, LLaMA, and ChromaDB.
 
 Clinicians were spending hours manually reviewing prior auth forms and
 chasing policy documents. PA-Assist is an agentic RAG system that
-surfaces the right policy context instantly — so that time goes back
+surfaces the right policy context instantly, so that time goes back
 to patients.
 
 ---
@@ -104,7 +104,7 @@ to patients.
 ### 📊 [ECAnalytics — E-Commerce Data Analytics Pipeline](https://github.com/Rithika2000/ECAnalytics)
 > `Python` `SQL` `Pandas` `Visualization`
 
-End-to-end analytics pipeline for e-commerce data — from raw transaction
+End-to-end analytics pipeline for e-commerce data from raw transaction
 records to insight dashboards that track sales trends, customer behavior,
 and product performance.
 
@@ -121,7 +121,7 @@ A deep learning model that generates natural language captions for images
 ### 🏅 [Tokyo Olympics Analysis](https://github.com/Rithika2000/Tokyo-olympics-analysis)
 > `Python` `Pandas` `Data Visualization` `Jupyter`
 
-Exploratory analysis of the Tokyo 2020 Olympics dataset — uncovering
+Exploratory analysis of the Tokyo 2020 Olympics dataset uncovering
 patterns in medal distributions, country performance, and athlete
 demographics through rich visual storytelling.
 
@@ -130,7 +130,7 @@ demographics through rich visual storytelling.
 ### 🎓 [Student Onboarding Analysis — Tableau Dashboard](https://github.com/Rithika2000/StudentOnboardingAnalysis)
 > `Tableau` `Data Analysis` `Dashboard Design`
 
-A Tableau dashboard analyzing student onboarding patterns — tracking
+A Tableau dashboard analyzing student onboarding patterns tracking
 drop-off points, engagement trends, and key metrics to help institutions
 improve their onboarding experience.
 
@@ -138,21 +138,23 @@ improve their onboarding experience.
 
 ## ✨ A Few Things That Set Me Apart
 
+🏥 **Real healthcare domain experience**
+Not just projects. I've worked inside a state health agency with
+production healthcare data. I know NEMSIS, SPARCS, and ePCR schemas,
+understand EMS data flows, and have built systems where the output
+directly informed public health decisions. If you're hiring for health
+tech or digital health, that context is hard to find in a generalist.
+
 🏆 **2024 Orange Hoops Data Science Challenge — 1st Place**
 Built an injury prediction model with **98% recall** that beat out
 competing teams across the country.
 
 📄 **Published at ACL 2022**
 Peer-reviewed NLP research accepted at the Association for Computational
-Linguistics — one of the top venues in the field.
+Linguistics one of the top venues in the field.
 
-🌍 **Public health impact**
-The opioid surveillance pipeline I built isn't a side project — it's
-running in production, helping track overdose trends across New York State.
 
-🔋 **STEM OPT | Open to H-1B sponsorship**
-Actively seeking full-time roles in Data Science, AI/ML Engineering,
-Data Analytics, and Data Engineering.
+
 
 ---
 
