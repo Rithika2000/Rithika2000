@@ -160,7 +160,6 @@ Linguistics one of the top venues in the field.
 
 
 
-
 *"The gap between raw data and real insight is where I live."*
 
 📬 [LinkedIn](https://www.linkedin.com/in/gurram-rithika/) · [Twitter](https://x.com/rithikagurram09) · [Medium](https://medium.com/@rithikagurram.2000) · [GitHub](https://github.com/Rithika2000)
